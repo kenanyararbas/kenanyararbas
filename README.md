@@ -27,6 +27,6 @@
 
 ### What I Have Done So Far 
 
-✔  With a collegue of mine we are developing a social media app with both back and front end structures.
+✔  With a collegue of mine we are developing a social media app with both back and front end structures. <br>
 ✔  I Joined different bug bounty programs and report bugs like directory traversal , XSS , IDOR , Logic Flaws etc . 
 
