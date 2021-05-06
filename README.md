@@ -13,8 +13,7 @@
 ### Technologies and Tools That I Used 
 <div style="align-items:center;display:inline;width:40%">
 <ul align="left" display="inline">
-<li><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="25" height="25"/> Linux / Kali Linux </li>
-<li><img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="25" height="25"/> SQL </li>
+<li display="inline"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="25" height="25"/> Linux / Kali Linux </li><li><img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="25" height="25"/> SQL </li>
 <li><img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25" height="25"/> Python </li>
 <li><img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" width="25" height="25"/> Flask </li>
 <li><img  src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="25" height="25"/> PHP </li>
@@ -26,4 +25,8 @@
 </ul>
 <div>
 
+### What I Have Done So Far 
+
+✔  With a collegue of mine we are developing a social media app with both back and front end structures.
+✔  I Joined different bug bounty programs and report bugs like directory traversal , XSS , IDOR , Logic Flaws etc . 
 
